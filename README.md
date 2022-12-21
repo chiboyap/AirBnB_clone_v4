@@ -161,6 +161,7 @@ No known bugs at this time.
 + Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 + Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)
 + Joann Vuong
++ Chinaemerem Paschal Alionye - [Github](https://github.com/chiboyap)
 
 Second part of Airbnb: Joann Vuong
 ## License
